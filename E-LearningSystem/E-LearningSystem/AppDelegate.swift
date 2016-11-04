@@ -30,4 +30,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func applicationWillTerminate(_ application: UIApplication) {
     }
+
+    func testCi(a:String) {
+
+    }
 }
